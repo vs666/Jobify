@@ -37,3 +37,7 @@ $ npm start
 ## Assumption 
 
 1. Profile picture uploaded will be in jpg format only.
+2. If due to some discripency, the decompressed file is at fault, kindly refer to this google drive link to download the project zip file : 
+
+https://drive.google.com/file/d/1Cc2hh91hqFZlgr0yCab1v_vLZ3SF9FPa/view?usp=sharing
+
