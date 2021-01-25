@@ -1,0 +1,25 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "a platform where job seekers meet job getters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varul Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^67.0.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "Recruiters" : [
+        {
+        "id": "001",
+        "name": "Dhananjay De Silva",
+        "email": "illepode@andugondu.com"
+        },
+        {
+            "id": "002",
+            "name":"Dushmantha Chameera",
+            "email":"rawankachamcha@hehehuhuhaha.com"
+        }
+    ]
+}
